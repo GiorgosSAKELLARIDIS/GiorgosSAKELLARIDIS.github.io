@@ -29,11 +29,15 @@ body {
   border: 5px solid black;
 }
 
-h1 {
+h1,a {
   margin: 0;
   padding: 20px auto ;
   color: #27bdeb;
   text-shadow: 4px 4px 2px black;
+}
+
+a:hover{
+  color:#0004ff
 }
 
 img {
