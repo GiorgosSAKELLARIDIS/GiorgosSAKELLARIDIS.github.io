@@ -8,9 +8,9 @@ h1 {
   text-align: center;
 }
 
-p, li {
+p, ul {
   font-size: 30px;
-  line-height: 2;
+  
   letter-spacing: 1px;
   text-align: center;
   align-items: center;
@@ -28,7 +28,27 @@ body {
   padding: 0 40px;
   border: 5px solid black;
 }
-
+ol {
+  font-size: 30px;
+  
+  letter-spacing: 1px;
+  text-align: left;
+  align-items: left;
+}
+#prosopo {
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-style: italic;
+  text-align: left;
+  align-items: left;
+}
+#gnomiko{
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: left;
+  align-items: left;
+}
 h1,a {
   margin: 0;
   padding: 20px auto ;
