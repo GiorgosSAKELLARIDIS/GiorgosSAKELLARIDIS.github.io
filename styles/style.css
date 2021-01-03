@@ -8,12 +8,12 @@ h1 {
   text-align: center;
 }
 
-p, ul {
+p {
   font-size: 30px;
   
   letter-spacing: 1px;
-  text-align: left;
-  align-items: left;
+  text-align: center;
+  align-items: center;
 }
 button {
   text-align: center;
@@ -28,7 +28,7 @@ body {
   padding: 0 40px;
   border: 5px solid black;
 }
-ol {
+ol,ul {
   font-size: 25px;
   letter-spacing: 1px;
   text-align: left;
