@@ -34,6 +34,13 @@ ol,ul {
   text-align: left;
   align-items: left;
 }
+#me,#mine {
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: right;
+  align-items: right;
+}
 #prosopo {
   font-size: 20px;
   letter-spacing: 1px;
@@ -46,9 +53,17 @@ ol,ul {
   font-weight: bold;
   letter-spacing: 1px;
   text-align: left;
-  align-items: left;
+  align-items: left;  
 }
-h1,a {
+a{
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #27bdeb;
+  text-shadow: 4px 4px 2px black;
+}
+
+h1 {
   margin: 0;
   padding: 20px auto ;
   color: #27bdeb;
