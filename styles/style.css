@@ -12,8 +12,8 @@ p, ul {
   font-size: 30px;
   
   letter-spacing: 1px;
-  text-align: center;
-  align-items: center;
+  text-align: left;
+  align-items: left;
 }
 button {
   text-align: center;
